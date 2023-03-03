@@ -37,6 +37,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScreenTechnicals&theme=tokyonight)
 
-## Viewers Counter
-![](https://komarev.com/ghpvc/?username=ScreenTechnicals)
+
 
