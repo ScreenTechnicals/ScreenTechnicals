@@ -1,4 +1,3 @@
-
 ![Intro Gif](https://github.com/ScreenTechnicals/ScreenTechnicals/blob/main/profile.png?raw=true)
 
 
@@ -31,4 +30,13 @@
 
 
 
+
+
+# 📊 Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ScreenTechnicals&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScreenTechnicals&theme=tokyonight)
+
+## Viewers Counter
+![](https://komarev.com/ghpvc/?username=ScreenTechnicals)
 
