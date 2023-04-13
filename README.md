@@ -26,7 +26,8 @@
 - **FIREBASE**
 - **MySQL**
 - **SqLite3**
-
+### 🔵 Native Stacks
+- React Native
 
 
 
