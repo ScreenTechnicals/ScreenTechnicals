@@ -8,7 +8,7 @@
 ![OctoHub](https://github.com/ScreenTechnicals/Octohub-Stickers/blob/main/octohub.png?raw=true) 
 
 
-
+![Hacksquad card](https://github.com/ScreenTechnicals/Octohub-Stickers/blob/main/hacksquad.png?raw=true) 
 
 
 # 💻 Skills and Stacks
