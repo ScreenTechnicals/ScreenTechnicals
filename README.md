@@ -31,7 +31,7 @@
 - **MySQL**
 - **SqLite3**
 ### 🔵 Native Stacks
-**- React Native**
+- **React Native**
 
 
 [![An image of @screentechnicals's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/screentechnicals)](https://holopin.io/@screentechnicals)
