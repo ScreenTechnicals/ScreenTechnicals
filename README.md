@@ -28,5 +28,8 @@
 [![An image of @screentechnicals's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/screentechnicals)](https://holopin.io/@screentechnicals)
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=screentechnicals&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=screentechnicals&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
