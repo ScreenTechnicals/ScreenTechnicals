@@ -1,5 +1,5 @@
 
-![Readme Intro](https://github.com/ScreenTechnicals/ScreenTechnicals/blob/main/readme.png?raw=true)
+![Readme Intro](https://github.com/ScreenTechnicals/ScreenTechnicals/blob/main/intro.png?raw=true)
 
 ![Intro Gif](https://github.com/ScreenTechnicals/ScreenTechnicals/blob/main/profile.png?raw=true)
 
