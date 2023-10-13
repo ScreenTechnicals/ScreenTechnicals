@@ -2,6 +2,8 @@
 ![Readme Intro](https://github.com/ScreenTechnicals/ScreenTechnicals/blob/main/intro.png?raw=true)
 
 
+![Hacksquad card](https://github.com/ScreenTechnicals/Octohub-Stickers/blob/main/hacksquad.png?raw=true)
+
 # 💻 Skills and Stacks
 ### 🔴 FRONTEND
 - **HTML5**
