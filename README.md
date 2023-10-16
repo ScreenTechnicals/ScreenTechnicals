@@ -12,7 +12,7 @@ Hi there! I'm a **Fullstack** developer and **YouTuber** with **4 years** of exp
   <img align="center" width="40%" src="https://github.com/ScreenTechnicals/Octohub-Stickers/blob/main/hacksquad.png?raw=true" alt="Octohub Cloud Card" />
 </div>
 
-# 🏆 GitHub Profile Trophy:
+# 🏆 GitHub Trophies:
 
 <p>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
