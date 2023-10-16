@@ -16,7 +16,6 @@ Hi there! I'm a **Fullstack** developer and **YouTuber** with **4 years** of exp
 # 🤝 Contribute Here
 
 <div width="100%" align="center">
-
 <a align="left" href="https://github.com/ScreenTechnicals/Amazon-Clone" title="Ecommerce Website Just Like Amazon"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ScreenTechnicals&repo=Amazon-Clone&theme=react&border_color=61dafb&border_radius=10"></a>  
 
 <a align="right" href="https://github.com/ScreenTechnicals/next-js-player" title="'next-js-player' is video player that supports both react and next js(i.e pages router and app router)"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ScreenTechnicals&repo=next-js-player&theme=react&border_color=61dafb&border_radius=10"></a>
