@@ -47,7 +47,7 @@ Hi there! I'm a **Fullstack** developer and **YouTuber** with **4 years** of exp
 - **Postgres**
 - **SqLite3**
 - **MongoDB**
-### :blue_circle: Native Stacks
+### 🔵 Database
 - **React Native**
 <br />
 # 🤝 Contribute Here
