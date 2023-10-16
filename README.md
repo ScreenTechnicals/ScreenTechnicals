@@ -25,6 +25,9 @@ Hi there! I'm a **Fullstack** developer and **YouTuber** with **4 years** of exp
 <div width="100%" align="center"> <a align="left" href="https://github.com/ScreenTechnicals/VoiceToNotesMaker1.0" title="This is a commandline interface program to convert voice to notes"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ScreenTechnicals&repo=DisneyPlusClone&theme=react&border_color=61dafb&border_radius=10"></a> <a align="right" href="https://github.com/ScreenTechnicals/DisneyPlusClone" title="'next-js-player' is video player that supports both react and next js(i.e pages router and app router)"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ScreenTechnicals&repo=DisneyPlusClone&theme=react&border_color=61dafb&border_radius=10"></a> </div>
 <br/><br/><br/><br/><br/><br/>
 
+<h4 align="center">
+  <a href="https://github.com/ScreenTechnicals?tab=repositories" title="Show Repositories">Show More</a>
+</h4>
 
 # 📊 Github Stats 
 <div>
