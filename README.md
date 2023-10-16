@@ -21,6 +21,35 @@ Hi there! I'm a **Fullstack** developer and **YouTuber** with **4 years** of exp
 </p>
 <br/>
 
+# 💻 Skills & Stacks
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,jquery,js,ts,react,nextjs,nodejs,python,django,mongodb,postgres,firebase,supabase,vercel,aws,netlify,electron,tailwind,bootstrap)](https://skillicons.dev)
+
+### :red_circle: FRONTEND
+- **HTML5**
+- **CSS3**
+- **SCSS**
+- **JAVASCRIPT**
+- **REACT JS**
+- **Tailwind CSS**
+- **Bootstrap**
+### :yellow_circle: BACKEND
+- **NODE JS**
+- **DJANGO (Python)**
+- **NEXT JS 13**
+- **Elysia**
+### :green_circle: HEADLESS CMS
+- **STRAPI**
+- **SUPABASE**
+- **SANITY**
+### :purple_circle: Database
+- **FIREBASE**
+- **Postgres**
+- **SqLite3**
+- **MongoDB**
+### :blue_circle: Native Stacks
+- **React Native**
+<br />
 # 🤝 Contribute Here
 
 <div width="100%" align="center">
