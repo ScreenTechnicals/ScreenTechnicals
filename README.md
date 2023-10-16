@@ -12,6 +12,14 @@ Hi there! I'm a **Fullstack** developer and **YouTuber** with **4 years** of exp
   <img align="center" width="40%" src="https://github.com/ScreenTechnicals/Octohub-Stickers/blob/main/hacksquad.png?raw=true" alt="Octohub Cloud Card" />
 </div>
 
+# 🏆 GitHub Profile Trophy:
+
+<p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ScreenTechnicals&column=8&theme=algolia&no-frame=true&no-bg=true"/>
+</a>
+</p>
+<br/>
 
 # 🤝 Contribute Here
 
@@ -29,6 +37,7 @@ Hi there! I'm a **Fullstack** developer and **YouTuber** with **4 years** of exp
   <a href="https://github.com/ScreenTechnicals?tab=repositories" title="Show Repositories">Show More</a>
 </h4>
 
+
 # 📊 Github Stats 
 <div>
 <a href="https://github.com/ScreenTechnicals/github-readme-streak-stats" title="Go to Source"><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ScreenTechnicals&theme=react&border=61dafb&hide_border=true" alt="ScreenTechnicals" /></a>
@@ -37,7 +46,7 @@ Hi there! I'm a **Fullstack** developer and **YouTuber** with **4 years** of exp
   <a href="https://github.com/ScreenTechnicals">
   <img width="67%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ScreenTechnicals&theme=radical" alt="Chinmaya's GitHub Contribution"/>
 </a>
-
+  
 </div>
 <br><br>
 <div align="center">
