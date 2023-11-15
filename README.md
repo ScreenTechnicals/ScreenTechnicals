@@ -37,7 +37,7 @@ Hi there! I'm a **Fullstack** developer and **YouTuber** with **4 years** of exp
 - **NODE JS**
 - **DJANGO (Python)**
 - **NEXT JS 13**
-- **Elysia**
+
 ### :green_circle: HEADLESS CMS
 - **STRAPI**
 - **SUPABASE**
