@@ -1,88 +1,52 @@
-![Intro Gif](https://github.com/ScreenTechnicals/ScreenTechnicals/blob/main/profile.png?raw=true)
+![ScreenTechnicals](https://github.com/ScreenTechnicals/ScreenTechnicals/blob/main/profile.png?raw=true)
 
+# Welcome to My World! 😇
+Hello! I'm an avid **Fullstack and React Native Developer** and **YouTuber**. With over 4 years of experience, I began my journey at 17, diving deep into web and mobile development. I am passionate about crafting visually appealing and functionally robust applications and teaching others to do the same.
 
-# :innocent: About Me
-Hi there! I'm a **Fullstack and React Native** developer and **YouTuber** with **4 years** of experience in creating stunning websites with crazy UIs and robust server backends. My passion for web development began at the age of 17, and I've been honing my skills ever since. As a full-stack developer, I have experience working on both the frontend and backend of websites. One of my specialties is creating stunning and user-friendly UIs for websites. I understand the importance of good design, and I'm skilled in using various design tools, such as Figma to create beautiful UIs that are both aesthetically pleasing and intuitive to use. I'm also able to implement responsive design principles to ensure that websites look great on any device. I create educational content on web development topics. Thanks for taking the time to get to know me. If you're interested in web development or have any questions, feel free to reach out!.
+📺 On my YouTube channel, I share tutorials, tips, and insights into the world of web development, aiming to empower aspiring developers by making technology more accessible.
 
+## My Expertise 🚀
+![Skills](https://skillicons.dev/icons?i=html,css,jquery,js,ts,react,nextjs,nodejs,python,django,mongodb,postgres,firebase,supabase,vercel,aws,netlify,electron,tailwind,bootstrap)
 
-# 😍 Badges & Cards
-[![An image of @screentechnicals's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/screentechnicals)](https://holopin.io/@screentechnicals)
-<div>
-  <a align="center" href="https://cloud.appwrite.io/card/652d80e2077a33f858cc"> <img align="center" width="35%" src="https://cloud.appwrite.io/v1/cards/cloud?userId=652d80e2077a33f858cc" alt="Appwrite Cloud Card" /></a>
-  <img align="center" width="40%" src="https://github.com/ScreenTechnicals/Octohub-Stickers/blob/main/hacksquad.png?raw=true" alt="Octohub Cloud Card" />
-</div>
+### Frontend Mastery
+- **HTML5, CSS3, SCSS**: Crafting beautiful, responsive layouts.
+- **JavaScript & React JS**: Building interactive, state-of-the-art single-page applications.
+- **Tailwind CSS & Bootstrap**: Accelerating development with modern CSS frameworks.
 
-# 🏆 GitHub Trophies:
+### Backend Proficiency
+- **Node JS & Django**: Developing APIs and managing server-side logic with a focus on scalability and security.
+- **Next JS 13**: Leveraging full-stack capabilities for SSR and static generation.
 
-<p>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ScreenTechnicals&column=8&theme=algolia&no-frame=true&no-bg=true"/>
-</a>
-</p>
-<br/>
+### Database and CMS Technologies
+- **Headless CMSs**: Strapi, Supabase, Sanity.
+- **Databases**: Firebase, Postgres, SqLite3, MongoDB.
 
-# 💻 Skills & Stacks
+### Mobile Development
+- **React Native**: Creating seamless native experiences for iOS and Android.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,jquery,js,ts,react,nextjs,nodejs,python,django,mongodb,postgres,firebase,supabase,vercel,aws,netlify,electron,tailwind,bootstrap)](https://skillicons.dev)
+## Achievements & Badges 🏆
+![Holopin badges](https://holopin.me/screentechnicals)
 
-### :red_circle: FRONTEND
-- **HTML5**
-- **CSS3**
-- **SCSS**
-- **JAVASCRIPT**
-- **REACT JS**
-- **Tailwind CSS**
-- **Bootstrap**
-### :yellow_circle: BACKEND
-- **NODE JS**
-- **DJANGO (Python)**
-- **NEXT JS 13**
-
-### :green_circle: HEADLESS CMS
-- **STRAPI**
-- **SUPABASE**
-- **SANITY**
-### :purple_circle: Database
-- **FIREBASE**
-- **Postgres**
-- **SqLite3**
-- **MongoDB**
-  
-### 🔵 Native
-- **React Native**
-<br /> <br />
-
-# 🤝 Contribute Here
-
-<div width="100%" align="center">
-<a align="left" href="https://github.com/ScreenTechnicals/Amazon-Clone" title="Ecommerce Website Just Like Amazon"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ScreenTechnicals&repo=Amazon-Clone&theme=react&border_color=61dafb&border_radius=10"></a>  
-
-<a align="right" href="https://github.com/ScreenTechnicals/next-js-player" title="'next-js-player' is video player that supports both react and next js(i.e pages router and app router)"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ScreenTechnicals&repo=next-js-player&theme=react&border_color=61dafb&border_radius=10"></a>
-
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center"> <a align="left" href="https://github.com/ScreenTechnicals/VoiceToNotesMaker1.0" title="This is a commandline interface program to convert voice to notes"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ScreenTechnicals&repo=VoiceToNotesMaker1.0&theme=react&border_color=61dafb&border_radius=10"></a> <a align="right" href="https://github.com/ScreenTechnicals/DisneyPlusClone" title="'next-js-player' is video player that supports both react and next js(i.e pages router and app router)"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ScreenTechnicals&repo=DisneyPlusClone&theme=react&border_color=61dafb&border_radius=10"></a> </div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/ScreenTechnicals?tab=repositories" title="Show Repositories">Show More</a>
-</h4>
-
-
-# 📊 Github Stats 
-<div>
-<a href="https://github.com/ScreenTechnicals/github-readme-streak-stats" title="Go to Source"><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ScreenTechnicals&theme=react&border=61dafb&hide_border=true" alt="ScreenTechnicals" /></a>
-<a href="https://github.com/ScreenTechnicals/github-readme-stats"><img width="25%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScreenTechnicals&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /></a>
-<br><br>
-  <a href="https://github.com/ScreenTechnicals">
-  <img width="67%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ScreenTechnicals&theme=radical" alt="Chinmaya's GitHub Contribution"/>
-</a>
-  
-</div>
-<br><br>
+## Visual Insights into My GitHub Stats 📊
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
-    </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScreenTechnicals&theme=midnight-purple&layout=compact&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=F85D7F" alt="Most Used Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScreenTechnicals&theme=minimal&background=0D1117&stroke=ffffff&ring=DD2727&fire=DD2727&currStreakNum=DD2727&sideNums=DD2727&currStreakLabel=ffffff&sideLabels=ffffff&dates=9f9f9f" alt="GitHub Streak Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ScreenTechnicals&theme=solarized_dark&hide_border=true" alt="GitHub Profile Summary Cards">
 </div>
-    
+
+## Let's Connect 🤝
+If you're passionate about web development or are seeking collaboration, don't hesitate to connect!
+- **[LinkedIn](https://www.linkedin.com/in/chinmaya-sa-60a594239/)** - Professional networking
+- **[Twitter](https://twitter.com/ChinmaySa1)** - Daily insights and updates
+- **[YouTube](https://www.youtube.com/channel/UCf2AVyF3teP4v29gr2Mh4rg)** - Educational content and tutorials
+- **[Email](mailto:chinmayasa09@gmail.com)** - For inquiries and collaborations
+
+## Support My Work 💌
+Your support fuels my creativity and open-source contributions. If you appreciate my work, consider starring the repositories or following my GitHub journey. Let's innovate together!
+
+## Appreciation Note 🙏
+A heartfelt thank you to everyone who has contributed to or used my projects. Your engagement and feedback elevate the quality of my work and keep me motivated.
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+stopping+by!;See+you+on+GitHub!">
+</div>
