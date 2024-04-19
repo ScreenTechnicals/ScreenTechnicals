@@ -6,7 +6,7 @@ Hello! I'm an avid **Fullstack and React Native Developer** and **YouTuber**. Wi
 📺 On my YouTube channel, I share tutorials, tips, and insights into the world of web development, aiming to empower aspiring developers by making technology more accessible.
 
 ## My Expertise 🚀
-![Skills](https://skillicons.dev/icons?i=html,css,jquery,js,ts,react,nextjs,nodejs,python,django,mongodb,postgres,firebase,supabase,vercel,aws,netlify,electron,tailwind,bootstrap)
+![Skills](https://skillicons.dev/icons?i=html,css,jquery,js,ts,react,nextjs,nodejs,python,django,mongodb,postgres,firebase,supabase,vercel,solidity,netlify,electron,tailwind,bootstrap)
 
 ### Frontend Mastery
 - **HTML5, CSS3, SCSS**: Crafting beautiful, responsive layouts.
