@@ -1,7 +1,6 @@
 ![ScreenTechnicals](https://github.com/ScreenTechnicals/ScreenTechnicals/blob/main/profile.png?raw=true)
 
 ![CodeCrisisProfile](https://code-crisis.vercel.app/api/badge/knCGM0f2FnXG8Fpyr6BV98QNmuD3)
-
 # Welcome to My World! 😇
 Hello! I'm an avid **Fullstack and React Native Developer** and **YouTuber**. With over 4 years of experience, I began my journey at 17, diving deep into web and mobile development. I am passionate about crafting visually appealing and functionally robust applications and teaching others to do the same.
 
@@ -52,3 +51,4 @@ A heartfelt thank you to everyone who has contributed to or used my projects. Yo
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+stopping+by!;See+you+on+GitHub!">
 </div>
+
